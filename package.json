@@ -1,0 +1,22 @@
+{
+  "name": "neeo-denon-avr-ip",
+  "version": "0.0.1",
+  "description": "NEEO Driver for DENON AVRs over IP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbalders/neeo-denon-avr-ip.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbalders/neeo-denon-avr-ip/issues"
+  },
+  "homepage": "https://github.com/mbalders/neeo-denon-avr-ip#readme",
+  "dependencies": {
+    "denon-client": "git+https://github.com/lmoe/node-denon-client.git"
+  }
+}
